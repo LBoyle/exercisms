@@ -24,34 +24,3 @@ Your task is to clean up differently formated telephone numbers by removing punc
 6139950253
 
 **Note:** As this exercise only deals with telephone numbers used in NANP-countries only 1 is considered a valid country code.
-
-## Setup
-
-Go through the setup instructions for JavaScript to
-install the necessary dependencies:
-
-http://exercism.io/languages/javascript
-
-## Making the Test Suite Pass
-
-Execute the tests with:
-
-    jasmine <exercise-name>.spec.js
-
-Replace `<exercise-name>` with the name of the current exercise. E.g., to
-test the Hello World exercise:
-
-    jasmine hello-world.spec.js
-
-In many test suites all but the first test have been skipped.
-
-Once you get a test passing, you can unskip the next one by
-changing `xit` to `it`.
-
-## Source
-
-Event Manager by JumpstartLab [http://tutorials.jumpstartlab.com/projects/eventmanager.html](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-

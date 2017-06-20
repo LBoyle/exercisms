@@ -25,34 +25,3 @@ For a delightful, four minute explanation of the whole leap year
 phenomenon, go watch [this youtube video][video].
 
 [video]: http://www.youtube.com/watch?v=xX96xng7sAE
-
-## Setup
-
-Go through the setup instructions for JavaScript to
-install the necessary dependencies:
-
-http://exercism.io/languages/javascript
-
-## Making the Test Suite Pass
-
-Execute the tests with:
-
-    jasmine <exercise-name>.spec.js
-
-Replace `<exercise-name>` with the name of the current exercise. E.g., to
-test the Hello World exercise:
-
-    jasmine hello-world.spec.js
-
-In many test suites all but the first test have been skipped.
-
-Once you get a test passing, you can unskip the next one by
-changing `xit` to `it`.
-
-## Source
-
-JavaRanch Cattle Drive, exercise 3 [http://www.javaranch.com/leap.jsp](http://www.javaranch.com/leap.jsp)
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-

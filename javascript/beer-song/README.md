@@ -319,34 +319,3 @@ are some additional things you could try:
 
 Then please share your thoughts in a comment on the submission. Did this
 experiment make the code better? Worse? Did you learn anything from it?
-
-## Setup
-
-Go through the setup instructions for JavaScript to
-install the necessary dependencies:
-
-http://exercism.io/languages/javascript
-
-## Making the Test Suite Pass
-
-Execute the tests with:
-
-    jasmine <exercise-name>.spec.js
-
-Replace `<exercise-name>` with the name of the current exercise. E.g., to
-test the Hello World exercise:
-
-    jasmine hello-world.spec.js
-
-In many test suites all but the first test have been skipped.
-
-Once you get a test passing, you can unskip the next one by
-changing `xit` to `it`.
-
-## Source
-
-Learn to Program by Chris Pine [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-

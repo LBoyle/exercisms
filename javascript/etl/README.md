@@ -43,34 +43,3 @@ A final note about scoring, Scrabble is played around the world in a
 variety of languages, each with its own unique scoring table. For
 example, an "E" is scored at 2 in the Māori-language version of the
 game while being scored at 4 in the Hawaiian-language version.
-
-## Setup
-
-Go through the setup instructions for JavaScript to
-install the necessary dependencies:
-
-http://exercism.io/languages/javascript
-
-## Making the Test Suite Pass
-
-Execute the tests with:
-
-    jasmine <exercise-name>.spec.js
-
-Replace `<exercise-name>` with the name of the current exercise. E.g., to
-test the Hello World exercise:
-
-    jasmine hello-world.spec.js
-
-In many test suites all but the first test have been skipped.
-
-Once you get a test passing, you can unskip the next one by
-changing `xit` to `it`.
-
-## Source
-
-The Jumpstart Lab team [http://jumpstartlab.com](http://jumpstartlab.com)
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-
