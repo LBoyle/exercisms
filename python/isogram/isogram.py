@@ -1,3 +1,3 @@
-def is_isogram(str):
-    str = str.replace('-', '').replace(' ','').lower()
-    return len(str) == len(''.join(set(str)))
+def is_isogram(s):
+    s = "".join(filter(str.isalpha, s.lower()))
+    return len(s) == len(set(s))
